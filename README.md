@@ -1,46 +1,44 @@
 # DM-Assignment-4 - Apache Beam data engineering assignment-
 
-## Data Visualizations
+## EDA and Data Visualizations using D3.js-
 
-*Medium article link -*
+*Collab link -*
 
-https://medium.com/@rutikrasik.darda/crisp-data-mining-methodology-2726530e59
+https://colab.research.google.com/drive/15HmTtS3eVbcl8TRZKtkrKQ9V0leoO5GL?usp=sharing
 
-1.) Create/find dataset from sites like https://www.kaggle.com/
+1.) Create/find datasets 
 
-2.) Install Pycaret AutoML tool.
+2.) Perofrm EDA on the dataset.
 
-3.) Perform step by step data analysis using `CRISP-DM methodology`.
-
-4.) Write a medium article and research paper.
+3.) Perform visualizations using `D3.js`.
 
 
-## SEMMA
 
-*Medium article link -*
+## AutpEDA using Sweetviz-
 
-https://medium.com/@rutikrasik.darda/semma-data-mining-methodology-c99eccc325f3
+*Collab link -*
 
-1.) Create/find dataset from sites like https://www.kaggle.com/
+https://colab.research.google.com/drive/1juiJwN-BVtqiwm6BbojTqWAukRyexyD7?usp=sharing
 
-2.) Install Pycaret AutoML tool.
+1.) Install Sweetviz 
 
-3.) Perform step by step data analysis using `SEMMA methodology`.
+2.) Load dataset.
 
-4.) Write a medium article and research paper.
+3.) Perform autoEDA using `Sweetviz`.
+
+4.) Analysis report will be generated in a pdf file.
+
+## Apache Beam-
+
+*Collab links -*
+
+https://colab.research.google.com/drive/15HmTtS3eVbcl8TRZKtkrKQ9V0leoO5GL?usp=sharing
+
+1.) Create/find datasets 
+
+2.) Perofrm EDA on the dataset.
+
+3.) Perform visualizations using `D3.js`.
 
 
-## KDD
-
-*Medium article link -*
-
-https://medium.com/@rutikrasik.darda/kdd-data-mining-methodology-1d31feaa9ed4
-
-1.) Create/find dataset from sites like https://www.kaggle.com/
-
-2.) Install Pycaret AutoML tool.
-
-3.) Perform step by step data analysis using `KDD methodology`.
-
-4.) Write a medium article and research paper.
 
