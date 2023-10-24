@@ -1,0 +1,1001 @@
+Order_ID,Product_Name,Category,Quantity_Sold,Price_Per_Unit,Order_Date
+1,Shirt,Apparel,1,628,2023-08-20
+2,Headphones,Electronics,5,1317,2023-03-05
+3,Table,Home and Living,5,1390,2023-10-09
+4,Jeans,Apparel,2,526,2023-06-08
+5,Desk Lamp,Home and Living,5,671,2023-06-07
+6,Shirt,Apparel,5,1492,2023-08-24
+7,Laptop,Electronics,4,1372,2022-11-06
+8,Jacket,Apparel,3,1074,2023-07-11
+9,Table,Home and Living,5,382,2023-03-12
+10,Mobile,Electronics,3,1281,2022-12-06
+11,Table,Home and Living,5,537,2023-03-15
+12,Jeans,Apparel,4,1237,2023-06-25
+13,Desk Lamp,Home and Living,4,350,2022-11-21
+14,Chair,Home and Living,4,1156,2023-08-02
+15,Laptop,Electronics,4,860,2023-05-24
+16,Mobile,Electronics,1,551,2023-01-10
+17,Mobile,Electronics,2,1364,2023-06-17
+18,Table,Home and Living,2,455,2023-02-25
+19,Headphones,Electronics,1,199,2023-06-11
+20,Table,Home and Living,1,290,2023-07-19
+21,Jeans,Apparel,2,40,2023-06-21
+22,Jacket,Apparel,5,1387,2023-08-24
+23,Table,Home and Living,1,1379,2023-07-24
+24,Jeans,Apparel,2,931,2022-11-29
+25,Jacket,Apparel,2,1025,2023-10-16
+26,Chair,Home and Living,2,1347,2023-04-26
+27,Shirt,Apparel,2,19,2023-06-08
+28,Chair,Home and Living,5,947,2023-03-19
+29,Shirt,Apparel,4,892,2023-04-15
+30,Headphones,Electronics,4,1065,2023-09-25
+31,Shirt,Apparel,1,659,2023-01-31
+32,Desk Lamp,Home and Living,3,741,2023-05-17
+33,Shirt,Apparel,1,22,2022-11-20
+34,Table,Home and Living,3,748,2023-07-09
+35,Jeans,Apparel,5,375,2023-04-13
+36,Table,Home and Living,1,34,2023-09-17
+37,Jeans,Apparel,5,302,2023-03-29
+38,Desk Lamp,Home and Living,4,88,2023-07-18
+39,Shirt,Apparel,5,1307,2022-11-18
+40,Mobile,Electronics,2,769,2022-10-30
+41,Laptop,Electronics,2,1201,2022-11-15
+42,Table,Home and Living,5,423,2023-08-20
+43,Jacket,Apparel,5,111,2022-11-27
+44,Headphones,Electronics,4,32,2022-11-30
+45,Headphones,Electronics,5,983,2023-10-13
+46,Chair,Home and Living,3,375,2023-09-01
+47,Chair,Home and Living,5,1216,2023-02-08
+48,Laptop,Electronics,5,1419,2023-02-13
+49,Chair,Home and Living,5,1023,2023-07-30
+50,Headphones,Electronics,5,497,2023-04-18
+51,Desk Lamp,Home and Living,1,163,2022-12-11
+52,Shirt,Apparel,1,969,2023-06-10
+53,Table,Home and Living,3,646,2022-11-06
+54,Laptop,Electronics,2,906,2023-07-15
+55,Headphones,Electronics,3,306,2023-09-05
+56,Shirt,Apparel,4,429,2023-03-19
+57,Shirt,Apparel,3,713,2023-10-19
+58,Mobile,Electronics,5,1313,2023-10-01
+59,Table,Home and Living,4,789,2023-02-12
+60,Chair,Home and Living,5,1226,2023-09-15
+61,Jacket,Apparel,2,531,2023-07-29
+62,Chair,Home and Living,2,844,2023-08-06
+63,Laptop,Electronics,4,502,2023-03-13
+64,Jeans,Apparel,4,383,2023-06-08
+65,Laptop,Electronics,2,163,2022-12-29
+66,Laptop,Electronics,2,228,2023-08-31
+67,Chair,Home and Living,1,834,2023-09-15
+68,Laptop,Electronics,4,777,2023-08-02
+69,Jacket,Apparel,5,412,2022-12-13
+70,Headphones,Electronics,5,945,2023-09-01
+71,Mobile,Electronics,2,1178,2023-08-11
+72,Desk Lamp,Home and Living,1,1450,2023-07-12
+73,Mobile,Electronics,4,890,2023-10-13
+74,Jeans,Apparel,4,637,2023-07-05
+75,Shirt,Apparel,5,481,2022-11-04
+76,Headphones,Electronics,4,838,2023-05-07
+77,Laptop,Electronics,4,135,2022-11-05
+78,Mobile,Electronics,4,680,2022-12-07
+79,Mobile,Electronics,2,290,2022-12-16
+80,Jeans,Apparel,5,786,2023-07-28
+81,Mobile,Electronics,2,565,2023-01-18
+82,Headphones,Electronics,4,368,2023-07-02
+83,Chair,Home and Living,1,62,2023-04-20
+84,Chair,Home and Living,4,1489,2023-02-09
+85,Table,Home and Living,5,914,2022-11-10
+86,Jacket,Apparel,1,1309,2023-03-21
+87,Mobile,Electronics,4,1081,2023-04-22
+88,Desk Lamp,Home and Living,4,494,2023-04-16
+89,Jeans,Apparel,4,1133,2023-05-28
+90,Jeans,Apparel,1,1146,2023-03-25
+91,Laptop,Electronics,1,706,2023-10-23
+92,Shirt,Apparel,4,1197,2022-12-12
+93,Desk Lamp,Home and Living,4,110,2023-09-20
+94,Jeans,Apparel,1,696,2023-10-06
+95,Jeans,Apparel,4,212,2023-01-08
+96,Table,Home and Living,1,170,2023-03-05
+97,Chair,Home and Living,5,1344,2023-02-22
+98,Shirt,Apparel,2,359,2022-12-07
+99,Shirt,Apparel,4,912,2023-10-17
+100,Headphones,Electronics,5,143,2023-08-31
+101,Shirt,Apparel,5,473,2022-11-05
+102,Shirt,Apparel,5,209,2023-02-20
+103,Chair,Home and Living,2,366,2023-04-10
+104,Jeans,Apparel,2,1480,2023-01-09
+105,Desk Lamp,Home and Living,1,191,2023-01-15
+106,Laptop,Electronics,2,1497,2023-08-28
+107,Laptop,Electronics,1,1265,2023-02-05
+108,Shirt,Apparel,3,1005,2023-07-25
+109,Jacket,Apparel,1,257,2022-11-23
+110,Laptop,Electronics,1,509,2023-03-01
+111,Headphones,Electronics,2,543,2023-09-15
+112,Headphones,Electronics,2,905,2023-10-10
+113,Jeans,Apparel,5,743,2023-01-20
+114,Shirt,Apparel,1,242,2023-07-07
+115,Chair,Home and Living,1,1175,2023-03-12
+116,Mobile,Electronics,5,831,2023-09-16
+117,Headphones,Electronics,3,726,2023-06-16
+118,Shirt,Apparel,3,371,2023-08-26
+119,Shirt,Apparel,5,627,2023-03-13
+120,Laptop,Electronics,5,1173,2023-06-18
+121,Shirt,Apparel,2,258,2023-09-14
+122,Jacket,Apparel,4,346,2023-02-22
+123,Jeans,Apparel,2,15,2023-06-15
+124,Laptop,Electronics,3,1348,2023-08-15
+125,Jacket,Apparel,3,50,2023-01-18
+126,Jeans,Apparel,3,203,2023-07-23
+127,Laptop,Electronics,4,1389,2023-09-28
+128,Headphones,Electronics,3,1462,2023-06-07
+129,Mobile,Electronics,5,1451,2023-10-24
+130,Jeans,Apparel,2,1167,2023-04-19
+131,Laptop,Electronics,1,1152,2023-01-27
+132,Jeans,Apparel,2,1117,2023-08-08
+133,Desk Lamp,Home and Living,3,670,2023-03-08
+134,Jeans,Apparel,2,1368,2023-04-22
+135,Shirt,Apparel,3,61,2023-06-16
+136,Mobile,Electronics,2,170,2022-12-04
+137,Shirt,Apparel,3,167,2023-02-17
+138,Table,Home and Living,4,764,2022-11-27
+139,Jacket,Apparel,2,1274,2023-06-02
+140,Shirt,Apparel,3,151,2023-03-19
+141,Jeans,Apparel,4,589,2022-12-25
+142,Shirt,Apparel,5,849,2022-11-14
+143,Headphones,Electronics,4,517,2022-11-22
+144,Table,Home and Living,3,650,2023-08-06
+145,Mobile,Electronics,1,504,2023-06-17
+146,Desk Lamp,Home and Living,4,598,2023-09-18
+147,Headphones,Electronics,5,642,2023-03-29
+148,Desk Lamp,Home and Living,3,532,2022-10-28
+149,Desk Lamp,Home and Living,2,323,2023-05-06
+150,Shirt,Apparel,4,690,2023-01-10
+151,Shirt,Apparel,5,98,2023-01-13
+152,Shirt,Apparel,4,663,2023-08-25
+153,Chair,Home and Living,5,81,2023-01-19
+154,Jacket,Apparel,4,1436,2023-04-06
+155,Chair,Home and Living,3,845,2022-11-02
+156,Desk Lamp,Home and Living,2,44,2023-10-23
+157,Headphones,Electronics,1,166,2023-01-11
+158,Headphones,Electronics,5,1166,2023-08-04
+159,Chair,Home and Living,2,798,2023-08-11
+160,Jeans,Apparel,1,520,2023-06-27
+161,Shirt,Apparel,3,748,2023-04-17
+162,Jacket,Apparel,2,180,2023-08-30
+163,Shirt,Apparel,3,466,2023-10-03
+164,Desk Lamp,Home and Living,1,1039,2023-03-12
+165,Desk Lamp,Home and Living,4,999,2022-12-31
+166,Desk Lamp,Home and Living,3,376,2023-05-17
+167,Shirt,Apparel,1,1390,2022-11-26
+168,Mobile,Electronics,1,1357,2022-11-04
+169,Table,Home and Living,2,1044,2023-07-18
+170,Table,Home and Living,3,1460,2023-05-01
+171,Shirt,Apparel,3,1115,2023-01-16
+172,Laptop,Electronics,5,1329,2023-09-23
+173,Headphones,Electronics,1,560,2023-07-01
+174,Jacket,Apparel,5,838,2023-10-04
+175,Jacket,Apparel,2,1157,2023-02-04
+176,Shirt,Apparel,4,144,2023-02-16
+177,Shirt,Apparel,4,1369,2023-06-14
+178,Jacket,Apparel,1,1024,2023-01-22
+179,Table,Home and Living,5,853,2023-06-12
+180,Jeans,Apparel,3,1259,2023-09-24
+181,Shirt,Apparel,4,83,2023-10-12
+182,Mobile,Electronics,2,826,2023-08-05
+183,Chair,Home and Living,3,616,2023-02-15
+184,Table,Home and Living,4,557,2022-10-29
+185,Jacket,Apparel,4,1466,2022-12-30
+186,Headphones,Electronics,5,930,2023-06-06
+187,Shirt,Apparel,5,731,2022-12-04
+188,Jeans,Apparel,2,279,2023-06-17
+189,Jacket,Apparel,5,697,2023-08-11
+190,Jeans,Apparel,4,807,2023-01-05
+191,Headphones,Electronics,5,87,2023-07-31
+192,Jeans,Apparel,5,37,2023-05-25
+193,Laptop,Electronics,4,242,2022-11-28
+194,Jeans,Apparel,2,547,2023-01-31
+195,Shirt,Apparel,5,1220,2023-06-25
+196,Chair,Home and Living,3,984,2023-08-12
+197,Laptop,Electronics,3,1281,2022-12-09
+198,Chair,Home and Living,3,745,2023-05-20
+199,Laptop,Electronics,3,560,2023-01-31
+200,Mobile,Electronics,1,1225,2022-12-13
+201,Laptop,Electronics,1,1316,2023-08-16
+202,Mobile,Electronics,1,1057,2023-03-28
+203,Shirt,Apparel,2,504,2022-12-28
+204,Chair,Home and Living,4,684,2023-05-17
+205,Laptop,Electronics,5,152,2023-05-21
+206,Headphones,Electronics,1,1433,2023-06-05
+207,Laptop,Electronics,1,1026,2023-07-04
+208,Table,Home and Living,2,693,2023-09-19
+209,Desk Lamp,Home and Living,4,1333,2023-03-28
+210,Chair,Home and Living,3,1015,2023-06-22
+211,Mobile,Electronics,3,1358,2023-04-10
+212,Table,Home and Living,1,83,2023-05-26
+213,Desk Lamp,Home and Living,3,1499,2023-09-26
+214,Mobile,Electronics,5,1108,2023-06-06
+215,Laptop,Electronics,4,1290,2023-04-22
+216,Jacket,Apparel,3,501,2023-04-03
+217,Shirt,Apparel,4,1106,2023-08-06
+218,Mobile,Electronics,2,80,2023-03-12
+219,Laptop,Electronics,3,443,2022-11-26
+220,Chair,Home and Living,2,992,2023-07-18
+221,Table,Home and Living,5,123,2023-10-13
+222,Table,Home and Living,4,1043,2023-07-21
+223,Chair,Home and Living,3,197,2023-05-13
+224,Shirt,Apparel,2,256,2022-12-11
+225,Table,Home and Living,1,362,2023-08-15
+226,Jeans,Apparel,3,700,2023-03-22
+227,Chair,Home and Living,5,299,2023-10-16
+228,Mobile,Electronics,2,330,2022-11-17
+229,Desk Lamp,Home and Living,4,182,2022-12-06
+230,Mobile,Electronics,2,168,2023-05-05
+231,Table,Home and Living,4,314,2023-05-22
+232,Shirt,Apparel,2,621,2023-05-01
+233,Shirt,Apparel,5,401,2023-03-06
+234,Table,Home and Living,4,1340,2023-03-01
+235,Jacket,Apparel,4,871,2023-04-25
+236,Table,Home and Living,2,749,2022-11-25
+237,Jacket,Apparel,1,16,2023-06-29
+238,Table,Home and Living,4,795,2022-12-25
+239,Desk Lamp,Home and Living,1,1286,2023-08-23
+240,Shirt,Apparel,4,600,2023-05-02
+241,Mobile,Electronics,4,397,2023-09-12
+242,Jacket,Apparel,5,178,2023-09-09
+243,Headphones,Electronics,1,1012,2023-07-04
+244,Jeans,Apparel,4,557,2023-04-06
+245,Headphones,Electronics,2,317,2022-12-22
+246,Chair,Home and Living,3,153,2023-07-21
+247,Jeans,Apparel,2,756,2023-04-10
+248,Shirt,Apparel,3,262,2023-01-24
+249,Mobile,Electronics,2,608,2023-05-12
+250,Jacket,Apparel,2,1196,2023-01-22
+251,Laptop,Electronics,1,952,2023-05-25
+252,Table,Home and Living,5,242,2023-01-03
+253,Mobile,Electronics,2,809,2023-02-17
+254,Jacket,Apparel,5,1373,2023-08-27
+255,Shirt,Apparel,5,854,2023-01-22
+256,Shirt,Apparel,3,684,2022-12-07
+257,Mobile,Electronics,4,192,2022-11-26
+258,Mobile,Electronics,5,1437,2023-01-14
+259,Jeans,Apparel,5,990,2023-01-06
+260,Headphones,Electronics,1,1285,2022-11-05
+261,Jacket,Apparel,5,1329,2023-07-13
+262,Table,Home and Living,5,631,2023-09-05
+263,Laptop,Electronics,1,941,2023-06-09
+264,Mobile,Electronics,5,421,2022-12-29
+265,Chair,Home and Living,3,498,2023-04-21
+266,Laptop,Electronics,2,559,2023-03-06
+267,Mobile,Electronics,3,617,2022-12-27
+268,Mobile,Electronics,2,95,2023-02-06
+269,Headphones,Electronics,1,1133,2022-12-17
+270,Jeans,Apparel,3,1268,2023-09-19
+271,Chair,Home and Living,4,704,2023-03-30
+272,Laptop,Electronics,2,236,2022-11-15
+273,Shirt,Apparel,2,1005,2023-01-30
+274,Shirt,Apparel,2,1473,2023-05-22
+275,Chair,Home and Living,2,952,2023-05-18
+276,Desk Lamp,Home and Living,1,531,2022-12-10
+277,Shirt,Apparel,5,222,2023-04-28
+278,Mobile,Electronics,4,170,2023-01-15
+279,Headphones,Electronics,5,343,2023-06-11
+280,Mobile,Electronics,2,872,2023-03-12
+281,Chair,Home and Living,2,557,2023-10-12
+282,Desk Lamp,Home and Living,4,404,2022-11-03
+283,Mobile,Electronics,5,908,2023-05-13
+284,Desk Lamp,Home and Living,1,1311,2023-06-05
+285,Chair,Home and Living,4,471,2023-05-28
+286,Jeans,Apparel,5,423,2022-11-06
+287,Mobile,Electronics,5,780,2022-12-11
+288,Chair,Home and Living,4,364,2023-08-17
+289,Desk Lamp,Home and Living,2,64,2023-04-21
+290,Laptop,Electronics,4,643,2023-03-27
+291,Laptop,Electronics,3,1439,2023-09-17
+292,Jacket,Apparel,5,1151,2023-05-01
+293,Chair,Home and Living,4,646,2023-08-13
+294,Shirt,Apparel,3,666,2023-05-25
+295,Headphones,Electronics,1,544,2023-09-09
+296,Mobile,Electronics,3,57,2022-11-24
+297,Table,Home and Living,1,755,2022-11-01
+298,Chair,Home and Living,2,1458,2023-07-23
+299,Laptop,Electronics,4,202,2023-04-26
+300,Jeans,Apparel,5,1188,2023-10-13
+301,Jacket,Apparel,4,88,2023-03-08
+302,Shirt,Apparel,2,873,2023-01-30
+303,Headphones,Electronics,5,584,2023-04-02
+304,Shirt,Apparel,3,1077,2023-08-24
+305,Jacket,Apparel,4,94,2023-02-22
+306,Chair,Home and Living,5,695,2023-08-20
+307,Mobile,Electronics,2,625,2023-02-12
+308,Table,Home and Living,1,436,2023-06-07
+309,Chair,Home and Living,1,1498,2023-02-17
+310,Jeans,Apparel,1,706,2023-10-06
+311,Jacket,Apparel,4,1099,2023-02-21
+312,Mobile,Electronics,4,250,2023-06-28
+313,Table,Home and Living,5,475,2023-10-22
+314,Laptop,Electronics,2,815,2022-12-23
+315,Table,Home and Living,4,820,2023-07-07
+316,Shirt,Apparel,4,57,2022-11-30
+317,Headphones,Electronics,4,1050,2022-12-30
+318,Shirt,Apparel,5,19,2023-10-11
+319,Jeans,Apparel,1,1198,2023-07-25
+320,Desk Lamp,Home and Living,2,415,2022-11-04
+321,Headphones,Electronics,2,232,2022-11-14
+322,Chair,Home and Living,5,1172,2022-11-14
+323,Headphones,Electronics,5,109,2022-11-20
+324,Chair,Home and Living,3,525,2022-11-14
+325,Laptop,Electronics,1,493,2023-03-11
+326,Jeans,Apparel,4,1118,2023-09-04
+327,Chair,Home and Living,2,45,2022-11-03
+328,Headphones,Electronics,5,232,2023-01-16
+329,Headphones,Electronics,3,1217,2023-02-15
+330,Desk Lamp,Home and Living,5,948,2023-02-07
+331,Table,Home and Living,1,1000,2023-09-26
+332,Headphones,Electronics,4,893,2022-11-22
+333,Headphones,Electronics,5,1058,2022-12-12
+334,Shirt,Apparel,5,216,2023-06-01
+335,Table,Home and Living,2,939,2023-08-12
+336,Jacket,Apparel,4,267,2023-03-01
+337,Jacket,Apparel,4,1348,2022-11-25
+338,Desk Lamp,Home and Living,4,732,2023-07-13
+339,Jacket,Apparel,1,332,2022-12-28
+340,Desk Lamp,Home and Living,1,32,2022-11-26
+341,Mobile,Electronics,3,182,2023-08-20
+342,Mobile,Electronics,4,1312,2023-07-13
+343,Jeans,Apparel,2,79,2023-05-15
+344,Laptop,Electronics,3,687,2022-10-24
+345,Mobile,Electronics,2,1011,2023-03-06
+346,Headphones,Electronics,3,1248,2023-09-29
+347,Shirt,Apparel,5,441,2023-02-11
+348,Laptop,Electronics,3,869,2023-09-27
+349,Desk Lamp,Home and Living,4,382,2022-12-31
+350,Mobile,Electronics,2,1202,2023-09-17
+351,Laptop,Electronics,3,646,2023-05-08
+352,Desk Lamp,Home and Living,4,42,2022-12-23
+353,Headphones,Electronics,4,322,2023-07-26
+354,Jeans,Apparel,3,475,2023-09-05
+355,Headphones,Electronics,2,357,2023-01-21
+356,Headphones,Electronics,2,1388,2023-04-28
+357,Jeans,Apparel,5,1001,2023-08-29
+358,Table,Home and Living,5,1371,2023-08-02
+359,Shirt,Apparel,3,562,2023-02-09
+360,Mobile,Electronics,3,295,2023-08-30
+361,Table,Home and Living,2,756,2023-05-28
+362,Jacket,Apparel,1,1339,2023-10-19
+363,Mobile,Electronics,2,649,2023-07-11
+364,Jeans,Apparel,3,1274,2023-09-10
+365,Chair,Home and Living,3,664,2023-09-17
+366,Table,Home and Living,2,638,2023-07-05
+367,Desk Lamp,Home and Living,2,961,2023-07-16
+368,Chair,Home and Living,1,275,2022-11-05
+369,Table,Home and Living,1,437,2023-04-20
+370,Laptop,Electronics,4,496,2023-06-16
+371,Shirt,Apparel,3,714,2023-04-22
+372,Jacket,Apparel,2,255,2022-12-24
+373,Chair,Home and Living,4,1016,2022-11-27
+374,Headphones,Electronics,5,750,2023-02-24
+375,Desk Lamp,Home and Living,4,1295,2023-09-24
+376,Laptop,Electronics,2,43,2022-10-27
+377,Desk Lamp,Home and Living,1,1427,2023-04-16
+378,Shirt,Apparel,4,960,2023-04-20
+379,Headphones,Electronics,5,346,2023-02-03
+380,Mobile,Electronics,2,1421,2023-01-28
+381,Table,Home and Living,4,533,2023-02-28
+382,Table,Home and Living,4,1138,2023-08-04
+383,Mobile,Electronics,5,1303,2023-10-18
+384,Chair,Home and Living,3,753,2023-10-09
+385,Headphones,Electronics,5,58,2022-12-29
+386,Laptop,Electronics,1,609,2023-08-19
+387,Laptop,Electronics,2,824,2022-10-26
+388,Desk Lamp,Home and Living,1,916,2023-09-02
+389,Desk Lamp,Home and Living,2,26,2022-12-05
+390,Headphones,Electronics,3,485,2023-07-02
+391,Desk Lamp,Home and Living,2,182,2022-11-10
+392,Shirt,Apparel,3,1149,2023-08-31
+393,Shirt,Apparel,2,543,2023-03-11
+394,Jeans,Apparel,5,99,2023-04-08
+395,Laptop,Electronics,4,443,2023-08-17
+396,Mobile,Electronics,3,535,2023-10-24
+397,Shirt,Apparel,3,730,2022-12-24
+398,Jeans,Apparel,5,650,2023-03-10
+399,Laptop,Electronics,5,89,2023-07-22
+400,Jeans,Apparel,1,913,2022-11-16
+401,Shirt,Apparel,2,378,2023-08-02
+402,Mobile,Electronics,4,444,2023-08-15
+403,Shirt,Apparel,1,1294,2023-07-09
+404,Shirt,Apparel,4,360,2023-09-15
+405,Shirt,Apparel,4,147,2023-05-30
+406,Mobile,Electronics,1,602,2023-04-19
+407,Jeans,Apparel,5,1191,2023-08-05
+408,Jeans,Apparel,4,882,2023-05-30
+409,Jeans,Apparel,4,420,2023-05-02
+410,Shirt,Apparel,4,696,2023-08-07
+411,Chair,Home and Living,1,906,2023-02-09
+412,Table,Home and Living,5,1136,2023-10-07
+413,Desk Lamp,Home and Living,3,439,2023-04-24
+414,Desk Lamp,Home and Living,2,795,2023-07-17
+415,Jeans,Apparel,5,681,2023-01-24
+416,Desk Lamp,Home and Living,4,221,2023-06-10
+417,Table,Home and Living,1,634,2023-10-18
+418,Laptop,Electronics,4,774,2023-09-04
+419,Jeans,Apparel,5,918,2023-07-13
+420,Table,Home and Living,5,651,2023-04-21
+421,Table,Home and Living,2,155,2023-08-30
+422,Shirt,Apparel,2,108,2022-11-12
+423,Table,Home and Living,3,201,2023-06-20
+424,Chair,Home and Living,3,941,2023-02-02
+425,Headphones,Electronics,3,1252,2023-03-30
+426,Jacket,Apparel,4,322,2022-10-30
+427,Jeans,Apparel,3,250,2023-07-18
+428,Jacket,Apparel,2,1035,2023-06-07
+429,Table,Home and Living,4,360,2023-07-29
+430,Headphones,Electronics,1,663,2023-02-04
+431,Shirt,Apparel,4,1442,2022-12-03
+432,Laptop,Electronics,2,703,2023-03-02
+433,Headphones,Electronics,3,882,2023-03-20
+434,Jacket,Apparel,2,421,2023-07-16
+435,Chair,Home and Living,4,1406,2022-12-06
+436,Shirt,Apparel,2,1146,2023-09-06
+437,Laptop,Electronics,1,67,2023-10-24
+438,Jeans,Apparel,5,150,2022-11-02
+439,Jeans,Apparel,5,168,2023-03-04
+440,Jacket,Apparel,3,976,2023-05-07
+441,Desk Lamp,Home and Living,4,753,2023-07-15
+442,Desk Lamp,Home and Living,3,85,2023-04-03
+443,Table,Home and Living,5,164,2023-03-03
+444,Table,Home and Living,1,912,2023-10-10
+445,Jacket,Apparel,1,116,2023-08-02
+446,Jacket,Apparel,1,60,2023-01-17
+447,Shirt,Apparel,3,259,2023-05-14
+448,Table,Home and Living,3,1253,2023-02-20
+449,Table,Home and Living,1,761,2023-08-23
+450,Table,Home and Living,1,407,2023-07-29
+451,Jacket,Apparel,2,501,2023-04-09
+452,Jeans,Apparel,1,458,2022-11-17
+453,Headphones,Electronics,3,515,2023-05-29
+454,Chair,Home and Living,2,174,2022-11-10
+455,Jeans,Apparel,4,758,2023-01-18
+456,Shirt,Apparel,5,939,2022-12-29
+457,Table,Home and Living,5,175,2023-01-29
+458,Chair,Home and Living,4,542,2023-07-25
+459,Table,Home and Living,1,108,2023-09-18
+460,Shirt,Apparel,3,368,2023-08-08
+461,Desk Lamp,Home and Living,3,691,2022-12-27
+462,Chair,Home and Living,1,969,2023-09-04
+463,Mobile,Electronics,1,1156,2023-01-31
+464,Shirt,Apparel,3,515,2023-01-01
+465,Table,Home and Living,3,864,2023-01-18
+466,Jacket,Apparel,3,1493,2023-09-21
+467,Shirt,Apparel,3,492,2023-05-28
+468,Desk Lamp,Home and Living,5,563,2023-08-07
+469,Chair,Home and Living,2,566,2023-07-31
+470,Mobile,Electronics,1,1380,2023-01-22
+471,Jeans,Apparel,5,1469,2023-07-08
+472,Table,Home and Living,4,1220,2022-11-27
+473,Headphones,Electronics,1,383,2023-06-16
+474,Laptop,Electronics,4,770,2023-09-04
+475,Headphones,Electronics,1,971,2023-02-15
+476,Shirt,Apparel,1,849,2023-07-15
+477,Chair,Home and Living,2,945,2023-05-06
+478,Headphones,Electronics,3,900,2023-08-04
+479,Headphones,Electronics,5,494,2023-05-09
+480,Mobile,Electronics,4,246,2023-03-10
+481,Headphones,Electronics,5,397,2023-02-27
+482,Headphones,Electronics,5,634,2023-03-14
+483,Laptop,Electronics,3,1476,2022-11-06
+484,Shirt,Apparel,5,766,2023-01-06
+485,Desk Lamp,Home and Living,2,633,2022-12-25
+486,Laptop,Electronics,2,553,2023-02-05
+487,Laptop,Electronics,4,1142,2023-10-12
+488,Table,Home and Living,3,509,2022-11-04
+489,Laptop,Electronics,3,536,2023-03-24
+490,Desk Lamp,Home and Living,3,605,2023-03-22
+491,Desk Lamp,Home and Living,3,1126,2023-07-08
+492,Chair,Home and Living,4,31,2022-11-01
+493,Mobile,Electronics,3,1471,2022-11-21
+494,Shirt,Apparel,4,381,2022-12-05
+495,Jacket,Apparel,4,589,2023-03-27
+496,Table,Home and Living,1,1228,2022-11-10
+497,Chair,Home and Living,1,644,2023-09-23
+498,Desk Lamp,Home and Living,4,539,2023-07-22
+499,Chair,Home and Living,4,952,2022-11-08
+500,Desk Lamp,Home and Living,2,1338,2023-07-21
+501,Laptop,Electronics,4,545,2023-04-21
+502,Jacket,Apparel,2,1123,2022-11-21
+503,Chair,Home and Living,5,169,2023-03-13
+504,Shirt,Apparel,5,1437,2023-07-13
+505,Shirt,Apparel,4,1066,2022-12-14
+506,Laptop,Electronics,4,289,2023-10-01
+507,Chair,Home and Living,5,673,2022-12-17
+508,Jacket,Apparel,1,1235,2022-11-17
+509,Chair,Home and Living,1,37,2023-05-20
+510,Jeans,Apparel,2,592,2022-12-02
+511,Jeans,Apparel,1,1388,2023-03-15
+512,Jacket,Apparel,1,359,2022-12-12
+513,Chair,Home and Living,2,75,2023-05-19
+514,Laptop,Electronics,2,1497,2022-12-19
+515,Mobile,Electronics,1,1470,2023-05-15
+516,Mobile,Electronics,1,986,2022-12-29
+517,Table,Home and Living,3,1477,2023-05-17
+518,Desk Lamp,Home and Living,1,80,2023-10-19
+519,Jeans,Apparel,4,841,2022-12-04
+520,Shirt,Apparel,1,336,2023-04-04
+521,Chair,Home and Living,1,1040,2023-05-22
+522,Jeans,Apparel,3,922,2023-05-15
+523,Shirt,Apparel,5,589,2023-02-14
+524,Headphones,Electronics,4,770,2023-02-26
+525,Table,Home and Living,5,602,2023-03-04
+526,Desk Lamp,Home and Living,5,1096,2023-06-04
+527,Laptop,Electronics,1,58,2023-04-22
+528,Headphones,Electronics,1,1031,2023-01-18
+529,Desk Lamp,Home and Living,2,844,2023-06-03
+530,Desk Lamp,Home and Living,2,275,2023-05-20
+531,Table,Home and Living,1,662,2023-05-27
+532,Chair,Home and Living,4,252,2023-09-30
+533,Mobile,Electronics,3,97,2023-10-20
+534,Mobile,Electronics,3,1210,2023-04-27
+535,Headphones,Electronics,2,1499,2023-09-28
+536,Jacket,Apparel,3,187,2023-01-22
+537,Jacket,Apparel,1,1430,2022-11-23
+538,Laptop,Electronics,3,347,2022-12-21
+539,Laptop,Electronics,4,1135,2023-08-06
+540,Table,Home and Living,5,75,2023-09-02
+541,Shirt,Apparel,4,285,2023-02-01
+542,Laptop,Electronics,3,1382,2023-03-29
+543,Shirt,Apparel,3,636,2023-04-01
+544,Jeans,Apparel,4,141,2023-04-24
+545,Table,Home and Living,5,745,2023-03-13
+546,Table,Home and Living,3,1056,2023-01-25
+547,Shirt,Apparel,2,1326,2023-01-18
+548,Desk Lamp,Home and Living,1,66,2022-12-15
+549,Laptop,Electronics,1,1015,2023-03-01
+550,Jacket,Apparel,4,362,2023-08-27
+551,Jacket,Apparel,2,1222,2022-12-16
+552,Laptop,Electronics,5,1354,2023-05-10
+553,Jacket,Apparel,2,1142,2023-05-19
+554,Chair,Home and Living,3,1391,2023-08-03
+555,Chair,Home and Living,1,1477,2023-02-22
+556,Desk Lamp,Home and Living,5,592,2023-06-11
+557,Table,Home and Living,2,217,2023-04-08
+558,Jeans,Apparel,1,1292,2023-09-03
+559,Desk Lamp,Home and Living,4,791,2023-08-17
+560,Laptop,Electronics,1,1253,2023-05-04
+561,Table,Home and Living,2,409,2022-12-24
+562,Headphones,Electronics,5,878,2023-10-13
+563,Table,Home and Living,1,1402,2023-05-30
+564,Chair,Home and Living,2,1028,2022-12-24
+565,Mobile,Electronics,4,110,2023-01-31
+566,Jeans,Apparel,5,1262,2023-03-27
+567,Chair,Home and Living,1,369,2023-10-22
+568,Laptop,Electronics,3,206,2022-11-21
+569,Mobile,Electronics,4,902,2023-03-20
+570,Shirt,Apparel,1,924,2023-02-10
+571,Laptop,Electronics,5,190,2023-10-09
+572,Headphones,Electronics,2,25,2023-02-11
+573,Table,Home and Living,2,1362,2023-06-04
+574,Desk Lamp,Home and Living,5,482,2023-07-22
+575,Chair,Home and Living,5,1004,2023-04-27
+576,Chair,Home and Living,2,132,2023-07-27
+577,Shirt,Apparel,4,238,2023-10-01
+578,Headphones,Electronics,2,919,2023-04-12
+579,Desk Lamp,Home and Living,5,1389,2023-06-26
+580,Shirt,Apparel,1,142,2023-03-16
+581,Table,Home and Living,1,1231,2023-01-18
+582,Mobile,Electronics,3,449,2023-06-22
+583,Shirt,Apparel,2,1047,2023-01-27
+584,Table,Home and Living,2,736,2022-12-09
+585,Mobile,Electronics,3,1324,2023-01-15
+586,Jeans,Apparel,4,805,2023-07-17
+587,Jeans,Apparel,5,316,2023-04-16
+588,Chair,Home and Living,3,24,2023-01-30
+589,Jacket,Apparel,3,546,2023-02-08
+590,Jeans,Apparel,1,765,2023-07-15
+591,Mobile,Electronics,2,1261,2023-06-22
+592,Shirt,Apparel,1,393,2023-06-22
+593,Jeans,Apparel,1,84,2023-07-01
+594,Laptop,Electronics,1,996,2023-02-16
+595,Jeans,Apparel,4,52,2023-07-07
+596,Mobile,Electronics,2,321,2023-03-21
+597,Headphones,Electronics,2,1456,2023-05-27
+598,Jeans,Apparel,1,193,2022-12-17
+599,Jeans,Apparel,4,234,2023-08-03
+600,Shirt,Apparel,2,520,2023-04-05
+601,Shirt,Apparel,5,975,2023-08-06
+602,Desk Lamp,Home and Living,2,1234,2023-06-18
+603,Headphones,Electronics,5,121,2023-08-30
+604,Chair,Home and Living,3,241,2023-01-08
+605,Table,Home and Living,1,1135,2023-04-07
+606,Chair,Home and Living,4,1024,2023-08-05
+607,Desk Lamp,Home and Living,3,1433,2023-01-05
+608,Shirt,Apparel,2,350,2023-06-04
+609,Jacket,Apparel,4,771,2022-11-16
+610,Jeans,Apparel,3,240,2023-08-08
+611,Jeans,Apparel,3,174,2023-05-10
+612,Mobile,Electronics,2,371,2023-03-31
+613,Shirt,Apparel,1,844,2023-01-18
+614,Jacket,Apparel,3,124,2023-05-29
+615,Headphones,Electronics,5,969,2023-02-05
+616,Shirt,Apparel,2,1309,2023-07-20
+617,Desk Lamp,Home and Living,3,677,2023-06-13
+618,Chair,Home and Living,1,277,2023-10-09
+619,Chair,Home and Living,3,540,2023-01-08
+620,Chair,Home and Living,3,1420,2023-04-21
+621,Jeans,Apparel,5,700,2023-06-15
+622,Mobile,Electronics,5,968,2023-06-10
+623,Chair,Home and Living,1,976,2023-08-20
+624,Chair,Home and Living,1,646,2022-12-21
+625,Shirt,Apparel,1,428,2022-11-02
+626,Shirt,Apparel,5,74,2022-12-28
+627,Table,Home and Living,1,506,2022-12-13
+628,Table,Home and Living,2,1142,2023-09-30
+629,Jeans,Apparel,2,1262,2022-10-30
+630,Headphones,Electronics,4,755,2023-05-20
+631,Shirt,Apparel,2,1360,2023-06-15
+632,Mobile,Electronics,1,1379,2023-04-12
+633,Jacket,Apparel,3,535,2023-10-20
+634,Jeans,Apparel,5,1231,2023-05-01
+635,Headphones,Electronics,2,917,2023-03-18
+636,Desk Lamp,Home and Living,3,884,2023-09-08
+637,Shirt,Apparel,1,1356,2022-12-11
+638,Headphones,Electronics,3,1143,2022-12-06
+639,Desk Lamp,Home and Living,2,1165,2023-05-07
+640,Mobile,Electronics,2,1343,2023-10-20
+641,Shirt,Apparel,2,55,2023-08-31
+642,Desk Lamp,Home and Living,2,435,2023-01-05
+643,Mobile,Electronics,5,785,2023-01-18
+644,Jeans,Apparel,3,562,2023-09-22
+645,Laptop,Electronics,2,297,2023-08-05
+646,Mobile,Electronics,1,88,2023-01-22
+647,Jacket,Apparel,4,1402,2023-02-20
+648,Mobile,Electronics,1,199,2022-12-08
+649,Shirt,Apparel,5,140,2023-01-25
+650,Chair,Home and Living,4,1429,2023-01-04
+651,Chair,Home and Living,1,1480,2023-06-30
+652,Shirt,Apparel,5,1309,2023-10-03
+653,Table,Home and Living,2,1436,2023-04-29
+654,Chair,Home and Living,2,298,2023-06-11
+655,Headphones,Electronics,4,1277,2023-03-29
+656,Headphones,Electronics,2,240,2023-01-17
+657,Jeans,Apparel,4,472,2023-05-17
+658,Mobile,Electronics,3,1187,2023-05-31
+659,Chair,Home and Living,4,961,2023-09-03
+660,Mobile,Electronics,1,96,2023-10-05
+661,Desk Lamp,Home and Living,4,1435,2023-10-05
+662,Shirt,Apparel,2,1242,2023-03-29
+663,Desk Lamp,Home and Living,1,1373,2023-03-24
+664,Desk Lamp,Home and Living,3,62,2022-12-19
+665,Jeans,Apparel,2,333,2023-01-22
+666,Jeans,Apparel,3,1433,2023-02-20
+667,Table,Home and Living,5,371,2023-10-16
+668,Jeans,Apparel,2,1124,2023-10-17
+669,Mobile,Electronics,2,1006,2023-01-09
+670,Table,Home and Living,1,461,2023-01-03
+671,Shirt,Apparel,1,260,2022-12-30
+672,Chair,Home and Living,1,1118,2023-04-13
+673,Headphones,Electronics,1,1051,2023-05-29
+674,Chair,Home and Living,2,990,2023-06-24
+675,Headphones,Electronics,1,932,2023-09-19
+676,Mobile,Electronics,4,109,2023-07-04
+677,Laptop,Electronics,4,725,2023-07-30
+678,Table,Home and Living,2,34,2023-06-14
+679,Desk Lamp,Home and Living,4,1001,2023-10-15
+680,Headphones,Electronics,5,335,2022-11-04
+681,Laptop,Electronics,1,136,2022-10-31
+682,Laptop,Electronics,4,597,2022-12-29
+683,Desk Lamp,Home and Living,5,1129,2023-04-24
+684,Jacket,Apparel,4,937,2022-12-02
+685,Table,Home and Living,3,1101,2023-06-16
+686,Mobile,Electronics,2,1114,2023-08-03
+687,Mobile,Electronics,2,909,2023-02-27
+688,Laptop,Electronics,4,343,2023-08-27
+689,Chair,Home and Living,2,948,2022-12-21
+690,Jeans,Apparel,2,305,2023-10-19
+691,Mobile,Electronics,4,405,2023-10-09
+692,Jacket,Apparel,4,1205,2022-12-07
+693,Jeans,Apparel,1,1178,2023-07-28
+694,Shirt,Apparel,2,510,2023-03-17
+695,Table,Home and Living,1,810,2022-11-10
+696,Shirt,Apparel,4,1399,2022-11-09
+697,Table,Home and Living,2,316,2023-01-13
+698,Jeans,Apparel,3,758,2022-11-22
+699,Jeans,Apparel,5,510,2023-02-12
+700,Headphones,Electronics,3,568,2023-08-27
+701,Mobile,Electronics,4,1201,2023-02-12
+702,Headphones,Electronics,3,351,2023-05-21
+703,Mobile,Electronics,1,815,2023-03-26
+704,Headphones,Electronics,3,760,2023-03-05
+705,Shirt,Apparel,3,1328,2023-09-21
+706,Jeans,Apparel,3,992,2023-03-24
+707,Laptop,Electronics,3,919,2023-02-05
+708,Table,Home and Living,2,1162,2023-06-15
+709,Chair,Home and Living,5,1153,2023-06-29
+710,Mobile,Electronics,3,238,2023-01-21
+711,Desk Lamp,Home and Living,3,628,2023-09-13
+712,Headphones,Electronics,3,1117,2023-08-14
+713,Chair,Home and Living,4,430,2023-09-13
+714,Jeans,Apparel,2,560,2023-06-19
+715,Desk Lamp,Home and Living,4,1438,2023-05-26
+716,Shirt,Apparel,5,1385,2023-08-08
+717,Headphones,Electronics,4,59,2023-01-06
+718,Laptop,Electronics,4,210,2023-01-06
+719,Headphones,Electronics,4,1242,2023-04-03
+720,Desk Lamp,Home and Living,5,591,2023-01-09
+721,Shirt,Apparel,5,66,2023-01-09
+722,Desk Lamp,Home and Living,3,820,2023-01-31
+723,Jacket,Apparel,1,376,2023-10-16
+724,Jacket,Apparel,3,375,2023-04-30
+725,Headphones,Electronics,5,1493,2023-09-01
+726,Shirt,Apparel,4,1422,2023-10-11
+727,Desk Lamp,Home and Living,5,1391,2022-12-30
+728,Desk Lamp,Home and Living,5,167,2023-02-11
+729,Mobile,Electronics,2,885,2023-04-17
+730,Shirt,Apparel,5,415,2022-12-31
+731,Jeans,Apparel,1,838,2023-03-16
+732,Mobile,Electronics,2,717,2023-10-03
+733,Chair,Home and Living,2,677,2023-09-28
+734,Jacket,Apparel,4,1349,2023-09-16
+735,Table,Home and Living,1,460,2023-05-24
+736,Table,Home and Living,2,1039,2023-05-07
+737,Mobile,Electronics,4,700,2023-10-10
+738,Desk Lamp,Home and Living,1,338,2023-06-01
+739,Headphones,Electronics,1,1235,2023-03-06
+740,Laptop,Electronics,4,141,2022-12-16
+741,Mobile,Electronics,5,334,2023-02-03
+742,Table,Home and Living,3,887,2023-04-30
+743,Table,Home and Living,1,606,2023-03-30
+744,Shirt,Apparel,1,1226,2023-08-18
+745,Headphones,Electronics,2,714,2023-01-09
+746,Shirt,Apparel,1,318,2023-04-21
+747,Jeans,Apparel,4,1353,2022-12-25
+748,Desk Lamp,Home and Living,2,910,2022-11-19
+749,Jeans,Apparel,5,1132,2022-11-01
+750,Jeans,Apparel,5,1234,2023-08-14
+751,Laptop,Electronics,3,1468,2023-04-26
+752,Table,Home and Living,5,14,2023-06-11
+753,Chair,Home and Living,1,426,2023-05-26
+754,Table,Home and Living,5,205,2023-05-27
+755,Chair,Home and Living,4,497,2023-07-16
+756,Jeans,Apparel,4,1420,2023-05-23
+757,Jacket,Apparel,5,849,2022-11-24
+758,Headphones,Electronics,4,100,2023-07-12
+759,Jeans,Apparel,2,874,2023-07-12
+760,Table,Home and Living,4,1056,2023-07-30
+761,Jacket,Apparel,3,1184,2023-06-25
+762,Laptop,Electronics,3,1499,2023-06-18
+763,Desk Lamp,Home and Living,3,790,2023-08-14
+764,Headphones,Electronics,3,778,2023-08-21
+765,Chair,Home and Living,3,611,2022-12-14
+766,Mobile,Electronics,2,1445,2022-11-05
+767,Laptop,Electronics,5,286,2023-08-31
+768,Laptop,Electronics,1,868,2023-10-19
+769,Laptop,Electronics,5,597,2023-03-18
+770,Shirt,Apparel,5,1152,2023-08-02
+771,Headphones,Electronics,5,212,2023-02-03
+772,Shirt,Apparel,1,1068,2023-04-12
+773,Jeans,Apparel,4,626,2023-04-02
+774,Table,Home and Living,1,196,2023-05-23
+775,Desk Lamp,Home and Living,4,671,2023-08-03
+776,Jacket,Apparel,2,51,2022-11-03
+777,Desk Lamp,Home and Living,4,392,2023-07-03
+778,Shirt,Apparel,4,699,2022-10-29
+779,Mobile,Electronics,5,1496,2023-03-22
+780,Jacket,Apparel,2,15,2023-04-09
+781,Jeans,Apparel,1,691,2023-01-10
+782,Table,Home and Living,4,301,2023-01-28
+783,Table,Home and Living,3,1176,2023-07-13
+784,Jacket,Apparel,4,1012,2022-11-23
+785,Chair,Home and Living,4,1281,2023-02-03
+786,Shirt,Apparel,2,391,2023-09-12
+787,Laptop,Electronics,2,1064,2022-11-23
+788,Desk Lamp,Home and Living,3,28,2023-06-06
+789,Headphones,Electronics,2,1061,2023-07-06
+790,Headphones,Electronics,5,1494,2023-07-06
+791,Headphones,Electronics,4,743,2023-07-09
+792,Table,Home and Living,4,331,2023-01-11
+793,Jacket,Apparel,2,891,2023-06-19
+794,Jeans,Apparel,2,221,2022-11-04
+795,Jeans,Apparel,5,1228,2023-08-01
+796,Shirt,Apparel,4,1293,2022-12-24
+797,Shirt,Apparel,1,62,2023-08-30
+798,Mobile,Electronics,3,1381,2023-08-20
+799,Mobile,Electronics,2,1075,2023-07-29
+800,Headphones,Electronics,4,602,2023-05-17
+801,Laptop,Electronics,2,1317,2023-01-20
+802,Desk Lamp,Home and Living,5,1157,2023-01-28
+803,Jacket,Apparel,4,1332,2022-10-29
+804,Table,Home and Living,5,1013,2023-03-17
+805,Table,Home and Living,3,284,2022-11-05
+806,Headphones,Electronics,5,1367,2023-06-23
+807,Laptop,Electronics,1,1075,2023-07-31
+808,Mobile,Electronics,3,1004,2023-06-21
+809,Laptop,Electronics,2,1054,2023-07-11
+810,Shirt,Apparel,3,1349,2023-07-16
+811,Mobile,Electronics,4,1329,2023-02-27
+812,Chair,Home and Living,5,661,2023-02-10
+813,Shirt,Apparel,1,1066,2023-01-23
+814,Chair,Home and Living,2,830,2023-06-29
+815,Shirt,Apparel,2,110,2022-11-04
+816,Table,Home and Living,4,536,2023-07-18
+817,Headphones,Electronics,3,1172,2023-02-23
+818,Laptop,Electronics,5,598,2022-12-21
+819,Jeans,Apparel,4,190,2022-12-16
+820,Table,Home and Living,2,1127,2023-07-01
+821,Jeans,Apparel,3,803,2022-11-26
+822,Headphones,Electronics,2,766,2023-06-03
+823,Desk Lamp,Home and Living,5,816,2022-11-24
+824,Mobile,Electronics,3,1307,2023-07-28
+825,Jeans,Apparel,2,219,2023-07-08
+826,Table,Home and Living,1,910,2022-10-25
+827,Desk Lamp,Home and Living,3,683,2023-03-24
+828,Mobile,Electronics,1,1132,2023-05-13
+829,Headphones,Electronics,1,156,2023-06-10
+830,Shirt,Apparel,4,1483,2023-01-06
+831,Headphones,Electronics,5,319,2023-05-02
+832,Jacket,Apparel,5,664,2023-02-03
+833,Mobile,Electronics,4,637,2023-05-09
+834,Chair,Home and Living,2,966,2023-05-01
+835,Jeans,Apparel,3,1188,2023-02-02
+836,Jacket,Apparel,3,161,2023-02-25
+837,Headphones,Electronics,4,58,2023-10-04
+838,Mobile,Electronics,5,200,2023-01-24
+839,Table,Home and Living,3,1472,2023-06-11
+840,Jeans,Apparel,4,1468,2023-09-09
+841,Chair,Home and Living,1,1124,2022-12-28
+842,Headphones,Electronics,5,335,2023-07-26
+843,Headphones,Electronics,3,585,2023-01-27
+844,Table,Home and Living,2,719,2023-05-11
+845,Table,Home and Living,4,1150,2023-07-18
+846,Shirt,Apparel,3,1437,2023-10-04
+847,Mobile,Electronics,2,228,2023-04-04
+848,Table,Home and Living,1,182,2023-02-12
+849,Headphones,Electronics,2,995,2023-08-17
+850,Headphones,Electronics,1,1326,2023-08-07
+851,Laptop,Electronics,1,1319,2023-09-30
+852,Chair,Home and Living,5,1396,2023-09-01
+853,Mobile,Electronics,5,810,2023-10-07
+854,Headphones,Electronics,3,1484,2023-01-18
+855,Shirt,Apparel,3,1392,2023-03-03
+856,Chair,Home and Living,3,1244,2023-02-05
+857,Desk Lamp,Home and Living,2,1081,2023-08-30
+858,Desk Lamp,Home and Living,1,366,2022-11-28
+859,Table,Home and Living,1,1293,2023-02-15
+860,Shirt,Apparel,2,1003,2023-05-06
+861,Table,Home and Living,1,1252,2022-11-24
+862,Laptop,Electronics,2,268,2022-11-10
+863,Desk Lamp,Home and Living,5,1453,2022-12-26
+864,Headphones,Electronics,3,1224,2023-02-20
+865,Desk Lamp,Home and Living,2,45,2023-06-18
+866,Chair,Home and Living,4,858,2023-01-08
+867,Shirt,Apparel,3,465,2023-05-23
+868,Laptop,Electronics,4,566,2023-05-04
+869,Headphones,Electronics,1,261,2023-04-13
+870,Chair,Home and Living,2,1360,2023-03-17
+871,Mobile,Electronics,3,1269,2022-11-29
+872,Shirt,Apparel,4,86,2022-12-09
+873,Headphones,Electronics,3,301,2022-12-20
+874,Jeans,Apparel,5,1199,2023-09-27
+875,Shirt,Apparel,2,475,2023-07-23
+876,Headphones,Electronics,1,1310,2023-10-16
+877,Chair,Home and Living,5,1433,2023-07-14
+878,Chair,Home and Living,2,320,2022-11-02
+879,Desk Lamp,Home and Living,3,1379,2023-09-14
+880,Chair,Home and Living,1,473,2023-01-01
+881,Shirt,Apparel,2,1467,2023-08-11
+882,Headphones,Electronics,3,470,2022-12-28
+883,Desk Lamp,Home and Living,5,912,2023-02-14
+884,Chair,Home and Living,5,846,2023-01-18
+885,Desk Lamp,Home and Living,4,671,2023-09-18
+886,Desk Lamp,Home and Living,5,141,2023-01-15
+887,Jacket,Apparel,2,331,2023-09-03
+888,Laptop,Electronics,1,428,2023-05-28
+889,Laptop,Electronics,5,717,2023-09-10
+890,Laptop,Electronics,2,182,2023-09-27
+891,Desk Lamp,Home and Living,1,44,2022-11-15
+892,Laptop,Electronics,1,956,2023-09-06
+893,Jeans,Apparel,3,1404,2023-05-08
+894,Mobile,Electronics,5,1344,2023-08-11
+895,Shirt,Apparel,3,892,2023-07-12
+896,Jeans,Apparel,4,1026,2023-09-16
+897,Table,Home and Living,1,1287,2023-02-23
+898,Laptop,Electronics,4,255,2023-06-14
+899,Chair,Home and Living,1,193,2023-07-03
+900,Chair,Home and Living,2,196,2023-07-13
+901,Table,Home and Living,5,1054,2023-05-14
+902,Chair,Home and Living,2,72,2022-12-07
+903,Chair,Home and Living,1,878,2023-09-04
+904,Table,Home and Living,1,340,2023-02-20
+905,Mobile,Electronics,1,354,2023-02-13
+906,Chair,Home and Living,5,272,2022-12-21
+907,Mobile,Electronics,5,754,2023-05-22
+908,Headphones,Electronics,3,743,2023-01-25
+909,Chair,Home and Living,2,583,2023-04-21
+910,Mobile,Electronics,4,340,2023-07-05
+911,Shirt,Apparel,3,1459,2023-09-25
+912,Laptop,Electronics,4,218,2023-03-19
+913,Jacket,Apparel,2,479,2023-01-12
+914,Jeans,Apparel,4,1242,2023-05-12
+915,Shirt,Apparel,5,377,2022-12-24
+916,Jeans,Apparel,5,972,2022-11-26
+917,Mobile,Electronics,4,717,2022-11-18
+918,Laptop,Electronics,2,535,2023-06-02
+919,Jacket,Apparel,2,227,2023-01-12
+920,Desk Lamp,Home and Living,4,1453,2023-01-23
+921,Desk Lamp,Home and Living,4,723,2023-02-07
+922,Mobile,Electronics,5,596,2023-07-10
+923,Laptop,Electronics,1,15,2023-08-25
+924,Headphones,Electronics,1,1269,2023-02-26
+925,Jacket,Apparel,1,1060,2023-04-27
+926,Table,Home and Living,3,1459,2023-06-01
+927,Table,Home and Living,5,158,2023-07-06
+928,Headphones,Electronics,3,349,2022-12-04
+929,Laptop,Electronics,5,640,2022-11-07
+930,Shirt,Apparel,4,1176,2023-03-21
+931,Laptop,Electronics,3,166,2023-03-15
+932,Desk Lamp,Home and Living,3,831,2023-08-10
+933,Jeans,Apparel,1,320,2023-01-14
+934,Laptop,Electronics,4,113,2023-10-02
+935,Desk Lamp,Home and Living,3,132,2023-10-03
+936,Mobile,Electronics,5,563,2023-10-19
+937,Headphones,Electronics,5,983,2023-07-31
+938,Jeans,Apparel,4,1394,2023-03-10
+939,Table,Home and Living,4,1350,2023-06-20
+940,Mobile,Electronics,3,194,2023-09-04
+941,Table,Home and Living,3,1181,2023-03-22
+942,Jacket,Apparel,1,838,2023-06-18
+943,Table,Home and Living,3,88,2022-10-25
+944,Jacket,Apparel,2,1384,2023-09-29
+945,Headphones,Electronics,2,83,2022-12-28
+946,Laptop,Electronics,4,1294,2023-02-16
+947,Chair,Home and Living,4,1275,2023-05-07
+948,Shirt,Apparel,3,709,2023-03-08
+949,Table,Home and Living,2,786,2023-05-19
+950,Table,Home and Living,1,1441,2023-05-22
+951,Chair,Home and Living,3,154,2023-04-01
+952,Chair,Home and Living,1,409,2022-12-20
+953,Jacket,Apparel,2,950,2023-02-21
+954,Mobile,Electronics,5,1307,2023-09-10
+955,Table,Home and Living,4,627,2023-04-23
+956,Jacket,Apparel,3,558,2023-06-03
+957,Desk Lamp,Home and Living,5,1178,2023-09-01
+958,Jacket,Apparel,3,1196,2023-05-06
+959,Table,Home and Living,3,755,2023-05-07
+960,Table,Home and Living,5,974,2023-10-04
+961,Jeans,Apparel,3,390,2022-11-13
+962,Headphones,Electronics,5,61,2022-10-28
+963,Chair,Home and Living,5,824,2023-06-04
+964,Jacket,Apparel,4,275,2023-06-17
+965,Laptop,Electronics,3,516,2023-02-10
+966,Chair,Home and Living,4,243,2023-05-24
+967,Laptop,Electronics,3,1078,2023-03-09
+968,Laptop,Electronics,4,1448,2023-08-04
+969,Jeans,Apparel,3,1450,2023-06-05
+970,Headphones,Electronics,1,1214,2023-01-03
+971,Chair,Home and Living,4,452,2023-08-09
+972,Headphones,Electronics,3,332,2023-01-15
+973,Shirt,Apparel,1,81,2023-09-03
+974,Chair,Home and Living,1,1276,2023-02-18
+975,Mobile,Electronics,2,873,2023-09-02
+976,Shirt,Apparel,3,404,2023-05-03
+977,Jeans,Apparel,4,965,2022-12-14
+978,Jacket,Apparel,5,1274,2022-10-24
+979,Mobile,Electronics,5,1182,2022-11-23
+980,Jeans,Apparel,4,661,2022-12-21
+981,Jeans,Apparel,5,905,2023-06-10
+982,Jeans,Apparel,2,986,2023-07-28
+983,Jacket,Apparel,2,767,2022-11-11
+984,Jacket,Apparel,3,1104,2022-10-25
+985,Desk Lamp,Home and Living,5,1118,2023-10-22
+986,Desk Lamp,Home and Living,3,661,2023-03-11
+987,Laptop,Electronics,5,251,2023-04-24
+988,Jacket,Apparel,5,773,2023-04-09
+989,Desk Lamp,Home and Living,4,1287,2023-06-20
+990,Jacket,Apparel,3,709,2023-06-06
+991,Chair,Home and Living,5,1416,2023-09-28
+992,Laptop,Electronics,5,1233,2023-06-24
+993,Chair,Home and Living,5,50,2022-12-15
+994,Jeans,Apparel,2,20,2023-01-01
+995,Headphones,Electronics,2,809,2022-11-17
+996,Shirt,Apparel,4,584,2022-11-11
+997,Desk Lamp,Home and Living,5,779,2023-08-17
+998,Mobile,Electronics,4,845,2023-01-28
+999,Laptop,Electronics,4,1491,2023-10-12
+1000,Chair,Home and Living,4,1001,2022-11-20
