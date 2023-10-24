@@ -40,7 +40,7 @@ https://colab.research.google.com/drive/1JxfymEm5B5a69zYM0_pbJ2Br407loY9N?usp=sh
 
 1.) Create/find datasets.
 
-2.) Perofrm Apache Beam Features such as - composite transform, pipeline io, triggers, windowing ,pardo.
+2.) Perofrm Apache Beam Features such as - `composite transform, pipeline io, triggers, windowing ,pardo`.
 
 3.) Download the generated output.
 
