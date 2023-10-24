@@ -33,10 +33,15 @@ https://colab.research.google.com/drive/1juiJwN-BVtqiwm6BbojTqWAukRyexyD7?usp=sh
 *Collab links -*
 
 https://colab.research.google.com/drive/1BTtn-FstTp8ZqJFudpqi9Y9SwNGxzUkF?usp=sharing
+
 https://colab.research.google.com/drive/1TYPGCsdjjo9M__ER-f06JAdqxVIVSlml?usp=sharing
+
 https://colab.research.google.com/drive/1abc-O5WTNlcvhS_V4F-_fxFA_2YXhpsb?usp=sharing
+
 https://colab.research.google.com/drive/1leLKXaY-YNKW02EGPOX_fD6WKeSse6hm?usp=sharing
+
 https://colab.research.google.com/drive/1JxfymEm5B5a69zYM0_pbJ2Br407loY9N?usp=sharing
+
 
 1.) Create/find datasets.
 
